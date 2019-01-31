@@ -1641,7 +1641,7 @@ html.no-csstransitions .home-content__main {
 .s-about {
     padding-top: 16.2rem;
     padding-bottom: 9rem;
-    background-color: #49D49D;
+    background-color: #63E2C6;
     color: #363537;
     position: relative;
 }
@@ -2393,7 +2393,7 @@ html.no-csstransitions .home-content__main {
 .contact-content {
     max-width: 1000px;
     background-color: rgba(0, 0, 0, 0.2);
-    color: rgba(255, 255, 255, 0.4);
+    color: rgba(255, 255, 255, 0.7);
     padding-top: 6rem;
     padding-bottom: 6rem;
     font-family: "karla", sans-serif;
